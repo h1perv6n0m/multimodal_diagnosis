@@ -1,0 +1,8 @@
+class1,count,share_%
+skin,609,52.14
+benign,278,23.8
+malignant,183,15.67
+предрак,18,1.54
+другое,2,0.17
+benign /предрак ,1,0.09
+malignant+benign,1,0.09
