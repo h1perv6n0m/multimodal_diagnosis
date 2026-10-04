@@ -1,0 +1,1169 @@
+id,group,class,class1,type,type1
+369996,skin,0,skin,0,кожа
+463960,skin,0,skin,0,кожа
+656846,skin,0,skin,0,кожа
+663773,skin,0,skin,0,кожа
+663773,tumor,2,malignant,7,базалиома
+665014,skin,0,skin,0,кожа
+665663,skin,0,skin,0,кожа
+665663,tumor,1,benign,4,кератома
+42752,tumor,1,benign,4,дискератоз
+82070,skin,0,skin,0,кожа
+82070,tumor,1,benign,4,ороговение
+109135,skin,0,skin,0,кожа
+109135,tumor,1,benign,11,папиллома
+665780,skin,0,skin,0,кожа
+665780,tumor,2,malignant,7,базалиома
+665815,skin,0,skin,0,кожа
+665815,tumor,2,malignant,8,SCC
+666411,skin,0,skin,0,кожа
+666411,tumor,2,malignant,7,базалиома
+42752,skin,0,skin,0,кожа
+259632,skin,0,skin,0,кожа
+259632,tumor,1,benign,10,пигм невус
+309916,skin,0,skin,0,кожа
+309916(1),tumor,1,benign,4,ороговение
+309916(2),tumor,1,benign,10,пигм невус
+314257,skin,0,skin,0,кожа
+314257,tumor,1,benign,4,ороговение
+395778,skin,0,skin,0,кожа
+395778,tumor,2,malignant,7,базалиома
+361957,skin,0,skin,0,кожа
+667160,skin,0,skin,0,кожа
+667160,tumor,2,malignant,7,базалиома
+1387,skin,0,skin,0,кожа
+160958,tumor,1,benign,2,гемангиома
+500141,skin,0,skin,0,кожа
+160958,skin,0,skin,0,кожа
+500141,tumor,1,benign,4,себорейный кератоз
+666677,skin,0,skin,0,кожа
+666677,tumor,1,benign,13,опухоль из придатков
+667233,skin,0,skin,0,кожа
+667233,tumor,2,malignant,7,базалиома
+73894,skin,0,skin,0,кожа
+73894,tumor,1,benign,5,болезнь Боуэна
+224262,skin,0,skin,0,кожа
+224262,tumor,1,benign,11,папиллома
+333958,skin,0,skin,0,кожа
+333958,tumor,1,benign,10,пигм невус
+503386,skin,0,skin,0,кожа
+503386,tumor,2,malignant,7,базалиома
+666262,skin,0,skin,0,кожа
+666262,tumor,1,benign,10,пигм невус
+166908,skin,0,skin,0,кожа
+166908,tumor,1,benign,13,опухоль из придатков
+129530,skin,0,skin,0,кожа
+129530 1,tumor,2,malignant,7,базалиома
+129530 2,tumor,2,malignant,7,базалиома
+232461,skin,0,skin,0,кожа
+232461,tumor,2,malignant,7,базалиома
+667888,skin,0,skin,0,кожа
+667888,tumor,1,benign,4,себорейный кератоз
+667995,skin,0,skin,0,кожа
+667995,tumor,2,malignant,7,базалиома
+106674,skin,0,skin,0,кожа
+106674,tumor,1,benign,11,папиллома
+263005,skin,0,skin,0,кожа
+263005,tumor,2,malignant,9,меланома
+365689,skin,0,skin,0,кожа
+365689,tumor,1,benign,4,дискератоз
+482657,skin,0,skin,0,кожа
+482657,tumor,1,benign,4,себорейный кератоз
+668265,skin,0,skin,0,кожа
+668265,tumor,2,malignant,7,базалиома
+628628,skin,0,skin,0,кожа
+628628,tumor,1,benign,2,гемангиома
+668420,skin,0,skin,0,кожа
+668420,tumor,2,malignant,7,базалиома
+670122,skin,0,skin,0,кожа
+670122,tumor,2,malignant,7,базалиома
+8970,skin,0,skin,0,кожа
+8970,tumor,1,benign,10,пигм невус
+668942,skin,0,skin,0,кожа
+668942,tumor,1,benign,1,дерматофиброма
+459246,skin,0,skin,0,кожа
+459246,tumor,1,benign,4,гиперкератоз
+657654,skin,0,skin,0,кожа
+657654,tumor,1,benign,10+ 4,пигм невус+кератоз
+669061,skin,0,skin,0,кожа
+669061,tumor,1,benign,4,себорейный кератоз
+gordeeva,skin,0,skin,0,кожа
+77301,skin,0,skin,0,кожа
+88581,skin,0,skin,0,кожа
+672113,skin,0,skin,0,кожа
+672113,tumor,1,benign,2,гемангиома
+672121,skin,0,skin,0,кожа
+672121,tumor,,,,без опохули+воспалит липогранулемы
+669657,skin,0,skin,0,кожа
+669657,tumor,1,benign,10,пигм невус
+669837,tumor,1,benign,10,пигм невус
+669854,skin,0,skin,0,кожа
+129119,skin,0,skin,0,кожа
+656966,skin,0,skin,0,кожа
+656966,tumor,2,malignant,9,меланома
+670120,skin,0,skin,0,кожа
+670120,tumor,2,malignant,7,базалиома
+672165,tumor,2,malignant,9,меланома
+672735,skin,0,skin,0,кожа
+672735,tumor,2,malignant,9,меланома
+673490,skin,0,skin,0,кожа
+673490,tumor,2,malignant,7,базалиома
+385438,tumor,1,benign,4,ороговение
+385438,skin,0,skin,0,кожа
+129119,skin,0,skin,0,кожа
+656966,skin,0,skin,0,кожа
+656966,tumor,2,malignant,9,меланома
+670120,skin,0,skin,0,кожа
+670120,tumor,2,malignant,7,базалиома
+672165,tumor,2,malignant,9,меланома
+672735,skin,0,skin,0,кожа
+672735,tumor,2,malignant,9,меланома
+385438,skin,0,skin,0,кожа
+385438,tumor,1,benign,4,ороговение
+673490,skin,0,skin,0,кожа
+673490,tumor,2,malignant,7,базалиома
+214712,skin,0,skin,0,кожа
+265900,skin,0,skin,0,кожа
+265900,tumor,2,malignant,9,меланома
+368006,skin,0,skin,0,кожа
+368006,tumor,1,benign,11,кератопапиллома
+654899,tumor,2,malignant,7,базалиома
+654899,skin,0,skin,0,кожа
+671755,skin,0,skin,0,кожа
+671755,tumor,1,benign,10,пигм невус
+504846,skin,0,skin,0,кожа
+504846,tumor,1,benign,11,кератопапиллома
+512961,skin,0,skin,0,кожа
+512961,tumor,2,malignant,12,меланоцит дисплазия
+649820,skin,0,skin,0,кожа
+649820,tumor,1,benign,4,себорейный кератоз
+671813,skin,0,skin,0,кожа
+671813,tumor,1,benign,4,себорейный кератоз
+320817,skin,0,skin,0,кожа
+320817,tumor,1,benign,11,кератопапиллома
+671912,skin,0,skin,0,кожа
+671912,tumor,1,benign,10,пигм невус
+672247,skin,0,skin,0,кожа
+672306,skin,0,skin,0,кожа
+672306,tumor,1,benign,1,фиброма
+674316,skin,0,skin,0,кожа
+674316,tumor,2,malignant,9,меланома
+659913,skin,0,skin,0,кожа
+659913,tumor,2,malignant,9,меланома
+675472,skin,0,skin,0,кожа
+675472,tumor,1,benign,10,пигм невус
+675495,skin,0,skin,0,кожа
+675495,tumor,1,benign,10,пигм невус
+673067,skin,0,skin,0,кожа
+673067,tumor,2,malignant,7,базалиома
+673074,skin,0,skin,0,кожа
+673074,tumor,2,malignant,7,базалиома
+673177,skin,0,skin,0,кожа
+673177,tumor,1,benign,10,пигм невус
+673842,skin,0,skin,0,кожа
+673842,tumor,1,benign,10,пигм невус
+69029,skin,0,skin,0,кожа
+69029,tumor,2,malignant,9,меланома
+624558,skin,0,skin,0,кожа
+624558,tumor,1,benign,11,кератопапиллома
+677957,skin,0,skin,0,кожа
+672150,skin,0,skin,0,кожа
+674893,skin,0,skin,0,кожа
+674893,tumor,1,benign,11,кератопапиллома
+672963,skin,0,skin,0,кожа
+672963,tumor,2,malignant,9,меланома
+674156,skin,0,skin,0,кожа
+674156,tumor,1,benign,4,себорейный кератоз
+675292,skin,0,skin,0,кожа
+675292,tumor,2,предрак,12,меланоцит дисплазия
+675346,skin,0,skin,0,кожа
+675346,tumor,1,benign,10+4,пигм невус
+675405,skin,0,skin,0,кожа
+675405,tumor,2,malignant,7,базалиома
+675441,skin,0,skin,0,кожа
+675441,tumor,1,benign,10,пигм невус
+271208,skin,0,skin,0,кожа
+368228,skin,0,skin,0,кожа
+368228,tumor,1,benign,4,себорейный кератоз
+447889,skin,0,skin,0,кожа
+447889,tumor,1,benign,10,пигм невус
+674532,skin,0,skin,0,кожа
+674532,tumor,1,benign,10,пигм невус
+482543,skin,0,skin,0,кожа
+482543,tumor,1,benign,2,гемангиома
+672251,skin,0,skin,0,кожа
+672251,tumor,2,предрак,12,меланоцит дисплазия
+676448,skin,0,skin,0,кожа
+676448,tumor,2,malignant,9,меланома
+125761,skin,0,skin,0,кожа
+125761,tumor,2,malignant,9,меланома
+676666,skin,0,skin,0,кожа
+676666,tumor,1,benign,4,ороговение
+174282,skin,0,skin,0,кожа
+174282,tumor,2,malignant,9,меланома регресс
+266116,skin,0,skin,0,кожа
+266116,tumor,1,benign,2,гемангиома
+677090,skin,0,skin,0,кожа
+677090,tumor,1,benign,4,себорейный кератоз
+677100,skin,0,skin,0,кожа
+677100,tumor,1,benign,10,пигм невус
+108933,skin,0,skin,0,кожа
+108933,tumor,2,malignant,7,базалиома
+325490,skin,0,skin,0,кожа
+325490,tumor,2,malignant,7,базалиома
+678009,skin,0,skin,0,кожа
+678009,tumor,1,benign,4,себорейный кератоз
+678347,skin,0,skin,0,кожа
+502071,skin,0,skin,0,кожа
+632996,skin,0,skin,0,кожа
+632996,tumor,1,benign,11,фибропапиллома
+678830,skin,0,skin,0,кожа
+678830,tumor 1,1,benign,2,гемангиома
+678830,tumor 2,1,benign,2,гемангиома
+383161,skin,0,skin,0,кожа
+383161,tumor,2,malignant,7,базалиома
+679348,skin,0,skin,0,кожа
+679348,tumor,1,benign,4,себорейный кератоз
+75232,skin,0,skin,0,кожа
+75232,tumor,2,malignant,7,базалиома
+277633,skin,0,skin,0,кожа
+277633,tumor,2,malignant,9,меланома
+328366,skin,0,skin,0,кожа
+328366,tumor,2,malignant,7,базалиома
+252099,skin,0,skin,0,кожа
+252099,tumor,2,malignant,9,меланома
+588547,skin,0,skin,0,кожа
+588547,tumor,2,malignant,9,меланома
+683314,skin,0,skin,0,кожа
+683314,tumor,2,malignant,9,меланома
+103571,skin,0,skin,0,кожа
+103571,tumor,2,malignant,7,базалиома
+240569,skin,0,skin,0,кожа
+240569,tumor,1,benign,11,фибропапиллома
+680582,skin,0,skin,0,кожа
+680582,tumor,2,malignant,7,базалиома
+40116,skin,0,skin,0,кожа
+40116,tumor,1,benign,4,себорейный кератоз
+219565,skin,0,skin,0,кожа
+219565,tumor,2,malignant,9,меланома
+680055,skin,0,skin,0,кожа
+680055,tumor,1,benign,10,пигм невус
+681579,skin,0,skin,0,кожа
+681579,tumor,1,benign,4,себорейный кератоз
+40116,skin,0,skin,0,кожа
+40116,tumor,1,benign,4,себорейный кератоз
+351744,skin,0,skin,0,кожа
+351744(1),skin,0,skin,0,кожа
+351744,tumor,1,benign,10,пигм невус
+351744(1),tumor,1,benign,10,пигм невус
+526216,skin,0,skin,0,кожа
+526216,tumor,1,benign,4,себорейный кератоз
+570201,skin,0,skin,0,кожа
+570201,tumor,2,malignant,9,меланома
+664712,skin,0,skin,0,кожа
+664712,tumor,2,предрак,12,меланоцит дисплазия
+682546,skin,0,skin,0,кожа
+682546,tumor,1,benign,11,
+682899,skin,0,skin,0,кожа
+682899(1),skin,0,skin,0,кожа
+682899,skin ,0,skin,0,кожа
+682899,tumor,1,benign,4,себорейный кератоз
+683065,skin ,0,skin,0,кожа
+683065,tumor,2,malignant,9,меланома
+471172,skin ,0,skin,0,кожа
+471172,tumor,2,предрак,12,меланоцит дисплазия
+683488,skin ,0,skin,0,кожа
+683837,skin ,0,skin,0,кожа
+683837,tumor,1,benign,2,гемангиома
+683886,skin ,0,skin,0,кожа
+683886(1),skin,0,skin,0,кожа
+276576,skin,0,skin,0,кожа
+276576,tumor,2,предрак,12,меланоцит дисплазия
+680256,skin,0,skin,0,кожа
+680256,tumor,1,benign,1,добро
+684083,skin,0,skin,0,кожа
+684083,tumor,1,benign,11,гиперкератоз
+684198,skin,0,skin,0,кожа
+684198,tumor,1,benign,1,добро
+411989,skin,0,skin,0,кожа
+411989,tumor,2,malignant,7,базалиома
+427099,skin,0,skin,0,кожа
+427099,tumor,2,malignant,9,меланома
+14376,skin,0,skin,0,кожа
+14376,tumor,2,malignant,9,меланома
+645788,skin,0,skin,0,кожа
+645788,tumor,2,malignant,9,меланома
+245583,skin,0,skin,0,кожа
+245583,tumor,1,benign,1,фибропапиллома
+572379,skin,0,skin,0,кожа
+572379,tumor,1,benign,1,фибропапиллома
+684703,skin,0,skin,0,кожа
+684703,tumor,1,benign,10,пигм невус
+684752,skin,0,skin,0,кожа
+684752,tumor,1,benign,10,пигм невус
+686653,skin,0,skin,0,кожа
+54476,skin,0,skin,0,кожа
+54476,tumor,2,malignant,9,меланома регрессия
+685194,skin,0,skin,0,кожа
+685194,tumor,1,benign,10,пигм невус
+362236,skin,0,skin,0,кожа
+362236,tumor,1,benign,4,себорейный кератоз
+685356,skin,0,skin,0,кожа
+685356,tumor,1,benign,10,пигм невус
+685809,skin,0,skin,0,кожа
+686838,skin,0,skin,0,кожа
+686838,tumor,1,benign,10,пигм невус
+195891,skin,0,skin,0,кожа
+195891,tumor,1,benign,11,кератопапиллома
+236640,skin,0,skin,0,кожа
+236640,tumor,1,benign,4,себорейный кератоз
+210718,skin,0,skin,0,кожа
+210718,tumor,1,benign,10,пигм невус
+383119,skin,0,skin,0,кожа
+383119,tumor,1,benign,10,пигм невус
+383119 1,tumor,1,benign,10,пигм невус
+400238,skin,0,skin,0,кожа
+400238,tumor,1,benign,1,
+686612,skin,0,skin,0,кожа
+686072,skin,0,skin,0,кожа
+686072,tumor,1,benign,10,пигм невус
+688502,skin,0,skin,0,кожа
+688502,tumor,1,benign,2,гемангиома
+688673,skin,0,skin,0,кожа
+688673,tumor,2,malignant,9,меланома регрессия
+686301,skin,0,skin,0,кожа
+686301,tumor,1,benign,2,гемангиома
+688013,skin,0,skin,0,кожа
+688013,tumor,1,benign,1,фибропапиллома
+201083,skin,0,skin,0,кожа
+201083,tumor,2,malignant,9,меланома
+687025,skin,0,skin,0,кожа
+687025,tumor,1,benign,10,пигм невус
+40834,skin,0,skin,0,кожа
+40834,tumor,2,malignant,9,меланома
+611895,skin,0,skin,0,кожа
+611895,tumor,1,benign,10,пигм невус
+686634,skin,0,skin,0,кожа
+686634,tumor,2,malignant,7,базалиома
+688709,skin,0,skin,0,кожа
+688709,tumor,1,benign,11,кандилома
+361285,skin,0,skin,0,кожа
+361285,tumor,1,benign,10,пигм невус
+485929,skin,0,skin,0,кожа
+485929,tumor,1,benign,10,пигм невус
+687309,skin,0,skin,0,кожа
+687309,tumor,1,benign,10,пигм невус
+687565,skin,0,skin,0,кожа
+687565,tumor,2,malignant,7,базалиома
+687575,skin,0,skin,0,кожа
+687575,tumor,1,benign,10,пигм невус
+524321,tumor,1,benign,10,пигм невус
+687885,skin,0,skin,0,кожа
+687885,tumor,1,benign,10,пигм невус
+47944,skin,0,skin,0,кожа
+47944,tumor,1,benign,4,себорейный кератоз
+466633,skin,0,skin,0,кожа
+541071,skin,0,skin,0,кожа
+541071,tumor,1,benign,4,кератопапиллома
+574464,skin,0,skin,0,кожа
+626372,skin,0,skin,0,кожа
+626372,tumor,1,benign,2,гемангиома
+688020,skin,0,skin,0,кожа
+688020,tumor,1,benign,10,пигм невус
+688716,skin,0,skin,0,кожа
+688716,tumor,1,benign,10,пигм невус
+370721,skin,0,skin,0,кожа
+370721,tumor,2,malignant,9,бп меланома
+689070,skin,0,skin,0,кожа
+689198,skin,0,skin,0,кожа
+689198,tumor,2,malignant,9,меланома
+249915,skin,0,skin,0,кожа
+687760,skin,0,skin,0,кожа
+687760,tumor,1,benign,10,пигм невус
+688012,skin,0,skin,0,кожа
+689603,skin,0,skin,0,кожа
+689603,tumor,2,malignant,8,SCC
+453338,skin,0,skin,0,кожа
+453338,tumor,1,benign,1,фибропапиллома
+683007,skin,0,skin,0,кожа
+683007,tumor,2,предрак,12,меланоцит дисплазия
+420911,skin,0,skin,0,кожа
+420911,tumor,1,benign,4,себорейный кератоз
+689862,skin,0,skin,0,кожа
+689862,tumor,1,benign,4,себорейный кератоз
+690419,skin,0,skin,0,кожа
+690419,tumor,2,malignant,9,меланома
+690489,skin,0,skin,0,кожа
+690489,tumor,1,benign,10,пигм невус
+691300,skin,0,skin,0,кожа
+691300,tumor,1,benign,10,пигм невус
+129621,skin,0,skin,0,кожа
+243137,skin,0,skin,0,кожа
+243137,tumor,1,benign,10,пигм невус
+691830,skin,0,skin,0,кожа
+692600,skin,0,skin,0,кожа
+692600,tumor,1,benign,,пигм невус
+692753,tumor,1,benign,4,кератоз
+88191,skin,0,skin,0,кожа
+198091,skin,0,skin,0,кожа
+198091,tumor,1,benign,2,гемангиома
+442257,skin,0,skin,0,кожа
+442257,tumor,1,benign,10,пигм невус
+641714,skin,0,skin,0,кожа
+641714,tumor,1,benign,2,гемангиома
+693469,skin,0,skin,0,кожа
+693469,tumor,2,malignant,7,базалиома
+693823,skin,0,skin,0,кожа
+693823,tumor,2,malignant,7,базалиома
+692835,skin,0,skin,0,кожа
+692835,tumor,2,malignant,9,меланома
+692926,skin,0,skin,0,кожа
+692926,tumor,2,malignant,7,базалиома
+75381,skin,0,skin,0,кожа
+75381,tumor,2,предрак,12,меланоцит дисплазия
+693099,skin,0,skin,0,кожа
+693099,tumor,1,benign,4,кератоз
+601694,skin,0,skin,0,кожа
+601694,tumor,1,benign,10,пигм невус
+203260,skin,0,skin,0,кожа
+203260,tumor,1,benign,2,гемангиома
+207571,skin,0,skin,0,кожа
+207571,tumor,,,11,кератопапиллома
+693610,skin,0,skin,0,кожа
+693610,tumor,1,benign,10,пигм невус
+693748,skin,0,skin,0,кожа
+693748,tumor,1,benign,10,пигм невус
+339361,skin,0,skin,0,кожа
+691608,skin,0,skin,0,кожа
+693930,skin,0,skin,0,кожа
+694674,skin,0,skin,0,кожа
+694674,tumor,1,benign,10,пигм невус
+623651,skin,0,skin,0,кожа
+623651,tumor,2,malignant,9,меланома
+471479,skin,0,skin,0,кожа
+545225,skin,0,skin,0,кожа
+545225,tumor,1,benign,4,кератоз
+353765,skin,0,skin,0,кожа
+353765,tumor,1,benign,10,пигм невус
+119421,skin,0,skin,0,кожа
+119421,tumor,1,benign,4,кератоз
+700649,skin,0,skin,0,кожа
+700649,tumor,2,malignant,7,базалиома
+701116,skin,0,skin,0,кожа
+701116,tumor,2,malignant,7,базалиома
+701125,skin,0,skin,0,кожа
+701125,tumor,1,benign,1,Фибропапиллома
+38438,skin,0,skin,0,кожа
+38438,tumor,1,benign,10,пигм невус
+385577,skin,0,skin,0,кожа
+385577,tumor,1,benign,4,кератоз
+468348,skin,0,skin,0,кожа
+468348,tumor,1,benign,10,пигм невус
+468348 1,tumor,1,benign,10,пигм невус
+340682,skin,0,skin,0,кожа
+69496,skin,0,skin,0,кожа
+69496,tumor,2,malignant,7,базалиома
+384331,skin,0,skin,0,кожа
+384331,tumor,1,benign,2,гемангиома
+694094,skin,0,skin,0,кожа
+694094,tumor,3,другое,14,гистиоцитома
+705025,skin,0,skin,0,кожа
+705025,tumor,1,benign,4,кератоз
+700645,skin,0,skin,0,кожа
+700645,tumor,2,malignant,7,базалиома
+705665,skin,0,skin,0,кожа
+705665,tumor,1,benign,10,пигм невус
+707133,skin,0,skin,0,кожа
+266846,skin,0,skin,0,кожа
+266846,tumor,2,malignant,9,меланома
+677860,skin,0,skin,0,кожа
+677860,tumor,1,benign,10,пигм невус
+705037,skin,0,skin,0,кожа
+705037,tumor,1,benign,2,гемангиома
+705665,skin,0,skin,0,кожа
+705665,tumor,1,benign,10,пигм невус
+707133,skin,0,skin,0,кожа
+709578,skin,0,skin,0,кожа
+709578,tumor,1,benign,4,кератоз
+709654,skin,0,skin,0,кожа
+709654,tumor,2,malignant,7,базалиома
+275744,skin,0,skin,0,кожа
+275744,tumor,2,предрак,12,дисплазия
+275744(1),tumor,2,предрак,12,дисплазия
+705029,skin,0,skin,0,кожа
+705029,tumor,1,benign,4,себорейный кератоз
+708510,tumor,1,benign,2,гемангиома
+709699,skin,0,skin,0,кожа
+709699,tumor,1,benign,1,Фибропапиллома 
+710085,skin,0,skin,0,кожа
+710085,tumor,2,malignant,9,меланома
+9802,skin,0,skin,0,кожа
+9802,tumor,2,malignant,9,меланома
+711823,skin,0,skin,0,кожа
+711823,tumor,1,benign,2,гемангиома
+711094,skin,0,skin,0,кожа
+711094,tumor,2,malignant,7,базалиома
+708666,skin,0,skin,0,кожа
+708666,tumor,1,benign,1,фиброма
+710709,skin,0,skin,0,кожа
+710709,tumor,1,benign,4,кератоз
+710729,skin,0,skin,0,кожа
+710729,tumor,2,malignant,9,меланома
+710729 1,tumor,2,malignant,9,меланома
+711159,skin,0,skin,0,кожа
+711159,tumor,3,другое,15,фибросаркома
+34392,skin,0,skin,0,кожа
+34392,tumor,1,benign,4,кератоз
+337226,skin,0,skin,0,кожа
+337226,tumor,1,benign,10,пигм невус
+672165,skin,0,skin,0,кожа
+672165,tumor,2,malignant,9,меланома
+711805,skin,0,skin,0,кожа
+712555,skin,0,skin,0,кожа
+712555,tumor,2,malignant,9,меланома
+715639,skin,0,skin,0,кожа
+715639,tumor,1,benign,10,пигм невус
+565663,skin,0,skin,0,кожа
+565663,tumor,1,benign,10,пигм невус
+708776,skin,0,skin,0,кожа
+708776,tumor,2,malignant,7,базалиома
+171065,skin,0,skin,0,кожа
+171065,tumor,1,benign,11,кератопапиллома
+712767,skin,0,skin,0,кожа
+712767,tumor,2,предрак,12,дисплазия
+713104,skin,0,skin,0,кожа
+713104,tumor,2,malignant,9,меланома
+447785,skin,0,skin,0,кожа
+447785,tumor,,,,пигментация
+714064,skin,0,skin,0,кожа
+714064,tumor,1,benign,4,кератоз
+104390,skin,0,skin,0,кожа
+104390,tumor,2,malignant,7,базалиома
+250095,skin,0,skin,0,кожа
+250095,tumor,1,benign,10,пигм невус
+308698,skin,0,skin,0,кожа
+308698,tumor,1,benign,2,гемангиома
+568371,skin,0,skin,0,кожа
+568371,tumor,1,benign,10,пигм невус
+714586,skin,0,skin,0,кожа
+714586,tumor,,,16,роговые чешуйки
+714593,skin,0,skin,0,кожа
+714593,tumor,2,malignant,7,базалиома
+714595,skin,0,skin,0,кожа
+714595,tumor,1,benign,10,пигм невус
+95822,skin,0,skin,0,кожа
+95822,tumor,2,malignant,7,базалиома
+283976,skin,0,skin,0,кожа
+283976,tumor,,,16,роговые чешуйки
+541640,skin,0,skin,0,кожа
+541640,tumor,2,malignant,9,меланома
+714655,skin,0,skin,0,кожа
+714655,tumor,,,16,роговые чешуйки
+714704,skin,0,skin,0,кожа
+714704,tumor,2,malignant,7,базалиома
+486195,skin,0,skin,0,кожа
+486195,tumor,2,malignant,7,базалиома
+704291,skin,0,skin,0,кожа
+704291,tumor,2,malignant,7,базалиома
+709722,skin,0,skin,0,кожа
+709722,tumor,2,malignant,7,базалиома
+713703,skin,0,skin,0,кожа
+713703,tumor,1,benign,10,пигм невус
+714957,skin,0,skin,0,кожа
+714957,tumor,,,16,роговые чешуйки
+715365,skin,0,skin,0,кожа
+715365,tumor,2,malignant,7,базалиома
+76439,skin,0,skin,0,кожа
+76439,tumor,2,malignant,7,базалиома
+113003,skin,0,skin,0,кожа
+113003,tumor,2,malignant,7,базалиома
+219431 1,tumor,2,malignant,7,базалиома
+219431 2,tumor,2,malignant,7,базалиома
+367096,skin,0,skin,0,кожа
+367096,tumor,,,16,роговые чешуйки
+647306,skin,0,skin,0,кожа
+647306,tumor,1,benign,11,гемангиопапиллома
+715484,skin,0,skin,0,кожа
+715494,skin,0,skin,0,кожа
+715494,tumor,,,16,роговые чешуйки
+150912,skin,0,skin,0,кожа
+150912,tumor,,,16,роговые чешуйки
+168243,skin,0,skin,0,кожа
+288516,skin,0,skin,0,кожа
+288516,tumor,2,malignant,8,SCC
+715550,skin,0,skin,0,кожа
+715550,tumor,1,benign,11,папиллома
+716157,skin,0,skin,0,кожа
+716157,tumor,1,benign,11,папиллома
+711512,skin,0,skin,0,кожа
+711512,tumor,2,malignant,7,базалиома
+715738,skin,0,skin,0,кожа
+715747,skin,0,skin,0,кожа
+715747,tumor,2,malignant,7,базалиома
+717982,skin,0,skin,0,кожа
+219978,skin,0,skin,0,кожа
+219978,tumor,,,16,роговые чешуйки
+296265,skin,0,skin,0,кожа
+485771,skin,0,skin,0,кожа
+485771,tumor,2,malignant,7,базалиома
+523544,skin,0,skin,0,кожа
+578229,skin,0,skin,0,кожа
+578229,tumor,1,benign,11,КЕРАТОПАПИЛЛОМА
+715959,skin,0,skin,0,кожа
+718098,skin,0,skin,0,кожа
+718098,tumor,,,16,роговые чешуйки
+56246,skin,0,skin,0,кожа
+56246,tumor,2,malignant,7,базалиома
+267579,skin,0,skin,0,кожа
+267579,tumor,,,16,роговые чешуйки
+354866,skin,0,skin,0,кожа
+354866,tumor,,,16,роговые чешуйки
+716448,skin,0,skin,0,кожа
+716448,tumor,2,malignant,9,меланома
+37725с,skin,0,skin,0,кожа
+37725с,tumor,,,16,роговые чешуйки
+37725щ,skin,0,skin,0,кожа
+37725щ,tumor,2,malignant,7,базалиома
+40285,skin,0,skin,0,кожа
+40285,tumor,2,malignant,7,базалиома
+714854,skin,0,skin,0,кожа
+718629,skin,0,skin,0,кожа
+720146,skin,0,skin,0,кожа
+136080,skin,0,skin,0,кожа
+136080,tumor,2,malignant,8,SCC
+205861,skin,0,skin,0,кожа
+465579,skin,0,skin,0,кожа
+465579,tumor,2,malignant,7,базалиома
+660273,skin,0,skin,0,кожа
+175690,skin,0,skin,0,кожа
+175690,tumor,2,malignant,7,базалиома
+315017,skin,0,skin,0,кожа
+597516,skin,0,skin,0,кожа
+597516,tumor,2,malignant,7,базалиома
+722196,skin,0,skin,0,кожа
+48515,skin,0,skin,0,кожа
+48515,tumor,2,malignant,7,базалиома
+101932,skin,0,skin,0,кожа
+101932,tumor,2,malignant,7,базалиома
+499345,skin,0,skin,0,кожа
+518436,skin,0,skin,0,кожа
+518436,tumor,2,malignant,7,базалиома
+550295,skin,0,skin,0,кожа
+550295,tumor,,,16,роговые чешуйки
+721467,skin,0,skin,0,кожа
+721467,tumor,,,16,роговые чешуйки
+722298,skin,0,skin,0,кожа
+722411,skin,0,skin,0,кожа
+348940,skin,0,skin,0,кожа
+348940,tumor,,,4,ороговение
+405354,skin,0,skin,0,кожа
+405354,tumor,,,16,роговые чешуйки
+468677,skin,0,skin,0,кожа
+468677,tumor,,,16,роговые чешуйки
+722684,skin,0,skin,0,кожа
+98416,skin,0,skin,0,кожа
+98416,tumor,2,malignant,7,базалиома
+405115,skin,0,skin,0,кожа
+405115,tumor,1,benign,10,пигм невус
+722676,skin,0,skin,0,кожа
+723221,skin,0,skin,0,кожа
+122574,skin,0,skin,0,кожа
+122574,tumor,,,16,роговые чешуйки
+271524,skin,0,skin,0,кожа
+271524,tumor,2,malignant,7,базалиома
+332838,skin,0,skin,0,кожа
+332838,tumor,1,benign,4,кератома
+491848,skin,0,skin,0,кожа
+491848,tumor,2,malignant,7,базалиома
+597675,skin,0,skin,0,кожа
+597675,tumor,2,malignant,9,меланома
+41841,skin,0,skin,0,кожа
+41841,tumor,2,malignant,7,базалиома
+214127,skin,0,skin,0,кожа
+214127,tumor,1,benign,10,пигм невус
+429140,skin,0,skin,0,кожа
+429140,tumor,,,16,роговые чешуйки
+686805,skin,0,skin,0,кожа
+686805,tumor,1,benign,4,кератома
+235430,skin,0,skin,0,кожа
+235430,tumor,2,malignant,7,базалиома
+724341,skin,0,skin,0,кожа
+724441,skin,0,skin,0,кожа
+724478,skin,0,skin,0,кожа
+724478,tumor,1,benign,4,себ кератоз
+724484,skin,0,skin,0,кожа
+724484,tumor,2,malignant,7,базалиома
+277850,skin,0,skin,0,кожа
+277850,tumor,1,benign,11,плоскоклеточная кератопапиллома
+347555,skin,0,skin,0,кожа
+347555,tumor,1,benign,11,кератопапиллома
+674316,skin,0,skin,0,кожа
+674316,tumor,2,malignant,9,меланома
+724820,skin,0,skin,0,кожа
+724820,tumor,2,malignant,8,карцинома
+340030,skin,0,skin,0,кожа
+448777,skin,0,skin,0,кожа
+467492,skin,0,skin,0,кожа
+726433,skin,0,skin,0,кожа
+727829,skin,0,skin,0,кожа
+73082,skin,0,skin,0,кожа
+73082,tumor,2,malignant,7,базалиома
+159379,skin,0,skin,0,кожа
+159379,tumor,,,,"без опухоли, гнойная жидкость"
+417950,skin,0,skin,0,кожа
+417950,tumor,1,benign,10,пигм невус
+727334,skin,0,skin,0,кожа
+727334,tumor,1,benign,10,пигм невус
+727381,skin,0,skin,0,кожа
+727381,tumor,1,benign,10,пигм невус
+217132,skin,0,skin,0,кожа
+217132,tumor,1,benign,10,пигм невус
+728266,skin,0,skin,0,кожа
+728266,tumor,,,,гнойной воспаление
+724587,skin,0,skin,0,кожа
+724587,tumor,,,,жировая ткань
+726876,skin,0,skin,0,кожа
+726876,tumor,1,benign,10,пигм невус
+726876(1),tumor,1,benign,10,пигм невус
+727465,skin,0,skin,0,кожа
+727465,tumor,1,benign,10,пигм невус
+12609,skin,0,skin,0,кожа
+12609,tumor,1,benign,4,себ кератоз
+289724,skin,0,skin,0,кожа
+289724,tumor,1,benign,1,дерматофиброма
+298621,skin,0,skin,0,кожа
+298621,tumor,1,benign,11,кератопапиллома
+307145,skin,0,skin,0,кожа
+307145,tumor,,,16,роговые чешуйки
+716724,skin,0,skin,0,кожа
+716724,tumor,1 или 2,benign /предрак ,10,пигм пограничный невус
+514047,skin,0,skin,0,кожа
+514047,tumor,2,malignant,9 ?,меланома?
+727336,skin,0,skin,0,кожа
+727336,tumor,1,benign,2,гемангиома
+262533,skin,0,skin,0,кожа
+368907,skin,0,skin,0,кожа
+368907,tumor,,,16,роговые чешуйки
+527301,skin,0,skin,0,кожа
+527301,tumor,2,предрак,12,меланоцит дисплазия
+726925,skin,0,skin,0,кожа
+726925,tumor,2,malignant,7,базалиома
+732310,skin,0,skin,0,кожа
+732310,tumor,2,malignant,7,базалиома
+48648,skin,0,skin,0,кожа
+48648,tumor,2,malignant,7,базалиома
+700089,skin,0,skin,0,кожа
+700089,tumor,2,malignant,9,меланома
+124529,skin,0,skin,0,кожа
+124529,tumor,,,16,без опухоли/воспаление
+729662,skin,0,skin,0,кожа
+729662,tumor,,,16,без опухоли/воспаление
+264899,skin,0,skin,0,кожа
+264899,tumor,,,16,роговые массы
+442348,skin,0,skin,0,кожа
+442348,tumor,1,benign,1,фиброма
+461362,skin,0,skin,0,кожа
+461362,tumor,1,benign,11,кератопапиллома
+688016,skin,0,skin,0,кожа
+688016,tumor,1,benign,4,себ кератоз
+698544,skin,0,skin,0,кожа
+698544,tumor,2,malignant,7,базалиома
+729453,skin,0,skin,0,кожа
+729453,tumor,1,benign,4,гиперкератоз
+729639,skin,0,skin,0,кожа
+729639,tumor,2,malignant,7,базалиома
+312687,skin,0,skin,0,кожа
+312687,tumor,1,benign,10,пигм невус
+467789,skin,0,skin,0,кожа
+467789,tumor,,,16,роговые чешуйки
+467789(1),tumor,,,16,роговые чешуйки
+583248,skin,0,skin,0,кожа
+583248,tumor,1,benign,10,пигм невус
+730096,skin,0,skin,0,кожа
+730096,tumor,2,malignant,7,базалиома
+220872,skin,0,skin,0,кожа
+220872,tumor,,,16,роговые чешуйки
+302758,skin,0,skin,0,кожа
+302758,tumor,,,,"мягкие ткани,макрофаги"
+681073,skin,0,skin,0,кожа
+681073,tumor,2,предрак,12,меланоцит дисплазия
+681073(1),tumor,2,предрак,10,пигм диспласт невус
+730462,skin,0,skin,0,кожа
+730462,tumor,2,предрак,10,?пигм диспласт невус
+733332,skin,0,skin,0,кожа
+733332,tumor,1,benign,2,гемангиома
+354804,skin,0,skin,0,кожа
+354804,tumor,1,benign,10,пигм невус
+735443,skin,0,skin,0,кожа
+735443,tumor,1,benign,10,пигм невус
+45663,skin,0,skin,0,кожа
+45663,tumor,,,16,роговые чешуйки
+238153,skin,0,skin,0,кожа
+238153,tumor,2,malignant,7,базалиома
+453968,skin,0,skin,0,кожа
+453968,tumor,2,malignant,7,базалиома
+140806,skin,0,skin,0,кожа
+140806,tumor,1,benign,11,кератопапиллома
+247969,skin,0,skin,0,кожа
+247969,tumor,1,benign,10,пигм невус
+361728,skin,0,skin,0,кожа
+361728,tumor,1,benign,11,папиллома
+731253,skin,0,skin,0,кожа
+731253,tumor,2,malignant,8,SCC
+731423,skin,0,skin,0,кожа
+731423,tumor,2,malignant,7 16,базалиома+рог чешуйки
+101398,skin,0,skin,0,кожа
+101398,tumor,,,16,роговые чешуйки
+175260,skin,0,skin,0,кожа
+175260,tumor,1,benign,10,пигм невус
+350411,skin,0,skin,0,кожа
+350411,tumor,2,malignant,7,базалиома
+412186,skin,0,skin,0,кожа
+412186,tumor,,,,"эпителий, коллоид, зоб"
+276632,skin,0,skin,0,кожа
+276632,tumor,2,malignant,7,базалиома
+727678,skin,0,skin,0,кожа
+727678,tumor,,,,фиброзная ткань
+732182,skin,0,skin,0,кожа
+732182,tumor,1,benign,10,пигм невус
+348790,skin,0,skin,0,кожа
+348790,tumor,,,,"фиброзная ткань,?фибромиома"
+453231,skin,0,skin,0,кожа
+453231,tumor,,,16,роговые чешуйки
+544791,skin,0,skin,0,кожа
+544791,tumor,,,,"полип, эндометрий,"
+715879,skin,0,skin,0,кожа
+715879,tumor,1,benign,10,пигм невус
+728932,skin,0,skin,0,кожа
+728932,tumor,1,benign,11,кератопапиллома
+58604,skin,0,skin,0,кожа
+58604,tumor,1,benign,11,кератопапиллома
+87578,skin,0,skin,0,кожа
+87578,tumor,,,,"формирование невусных клеток, много плоского эпителия"
+732995,skin,0,skin,0,кожа
+732995,tumor,1,benign,10,пигм невус
+96830,skin,0,skin,0,кожа
+96830,tumor,,,,фиброзная ткань
+434629,skin,0,skin,0,кожа
+434629,tumor,1,benign,10,пигм невус
+434629(1),tumor,1,benign,10,пигм невус
+733008,skin,0,skin,0,кожа
+733008,tumor,2,malignant,7,базалиома
+737805,skin,0,skin,0,кожа
+145805,skin,0,skin,0,кожа
+145805,tumor,,,,меланоцит маркер отрицательный
+462326,skin,0,skin,0,кожа
+733056,skin,0,skin,0,кожа
+40099,skin,0,skin,0,кожа
+40099,tumor,,,16,"роговые чешуйки, плоский эпителий"
+42693,skin,0,skin,0,кожа
+42693,tumor,2,malignant,7,базалиома
+732758,skin,0,skin,0,кожа
+732758,tumor,2,malignant,7,базалиома
+42384,skin,0,skin,0,кожа
+42384,tumor,,,16,"роговые чешуйки, плоский эпителий"
+147122,skin,0,skin,0,кожа
+147122,tumor,,,16,без опухоли
+117531,skin,0,skin,0,кожа
+117531,tumor,2,malignant,7,базалиома
+455873,skin,0,skin,0,кожа
+455873,tumor,1,benign,4?,"акантоз, очаг гиперкератоз"
+735350,skin,0,skin,0,кожа
+735350,tumor,2,предрак,12,бп дисплазия
+250318,skin,0,skin,0,кожа
+250318,tumor,1,benign,2,гемангиома
+404182,skin,0,skin,0,кожа
+404182,tumor,1,benign,11,кератопапиллома
+456217,skin,0,skin,0,кожа
+456217,tumor,1,benign,10,пигм невус
+492616,skin,0,skin,0,кожа
+492616,tumor,1,benign,11,плоскоклет кератопапиллома
+735095,skin,0,skin,0,кожа
+735095,tumor,1,benign,2,гемангиома
+10412,skin,0,skin,0,кожа
+10412,tumor,1,benign,11,кератопапиллома
+10412(1),tumor,1,benign,11,кератопапиллома
+209733,skin,0,skin,0,кожа
+209733,tumor,1,benign,2,гемангиома
+336539,skin,0,skin,0,кожа
+336539,tumor,,,16,роговые чешуйки
+686553,skin,0,skin,0,кожа
+686553,tumor,2,malignant,7,базалиома
+733326,skin,0,skin,0,кожа
+733326,tumor,2,malignant,8?,метастазы SCC
+735639,skin,0,skin,0,кожа
+735639,tumor,,,,клетки плоского эпителия
+56828,skin,0,skin,0,кожа
+56828,tumor,2,malignant,7,базалиома
+586849,skin,0,skin,0,кожа
+586849,tumor,2,предрак,12,меланоцит опухоль неясного потенциала
+667824,skin,0,skin,0,кожа
+667824,tumor,2,malignant,7,базалиома
+743103,skin,0,skin,0,кожа
+743103,tumor,,,16,роговые чешуйки
+745386,skin,0,skin,0,кожа
+80512,skin,0,skin,0,кожа
+80512,tumor,1,benign,11,кератопапиллома
+744927,skin,0,skin,0,кожа
+744927,tumor,1,benign,10,пигм невус
+745645,skin,0,skin,0,кожа
+745645,tumor,1,benign,2,гемангиома
+747198,skin,0,skin,0,кожа
+747198,tumor,1,benign,10,пигм невус
+747198(1),tumor,1,benign,10,пигм невус
+60714,skin,0,skin,0,кожа
+60714,tumor,1,benign,10,пигм невус
+316545,skin,0,skin,0,кожа
+316545,tumor,1,benign,2,гемангиома
+747435,skin,0,skin,0,кожа
+747435,tumor,1,benign,4,себ кератоз
+290794,skin,0,skin,0,кожа
+290794,tumor,1,benign,, СИРИНГОЭПИТЕЛИОМА
+747450,skin,0,skin,0,кожа
+747450,tumor,1,benign,2,гемангиома
+63180,skin,0,skin,0,кожа
+63180,tumor,1,benign,4,гипер кератоз
+122903,skin,0,skin,0,кожа
+122903,tumor,,,,"эрозирование эпидермиса, акантат"
+747583,skin,0,skin,0,кожа
+747583,tumor,1,benign,4,себ кератоз
+747862,skin,0,skin,0,кожа
+747862,tumor,1,benign,11,кератопапиллома
+749383,skin,0,skin,0,кожа
+749383,tumor,1,benign,2,гемангиома
+82365,skin,0,skin,0,кожа
+82365,tumor,2,malignant,7,базалиома
+748095,skin,0,skin,0,кожа
+748095,tumor,1,benign,11,кератопапиллома
+748301,skin,0,skin,0,кожа
+748301,tumor,,,,фиброзная ткань+гиперкератоз+дисплазия 3 степени
+111080,skin,0,skin,0,кожа
+111080,tumor,2,malignant,7,базалиома
+263582,skin,0,skin,0,кожа
+263582,tumor,,,16,роговые чешуйки+жир
+746755,skin,0,skin,0,кожа
+746755,tumor,2,malignant,9,меланома
+749303,skin,0,skin,0,кожа
+749303,tumor,,,16,роговые чешуйки+жир
+749495,skin,0,skin,0,кожа
+749495,tumor,1,benign,2,гемангиома
+124280,skin,0,skin,0,кожа
+124280,tumor,,,16,роговые чешуйки+жир
+349663,skin,0,skin,0,кожа
+349663,tumor,1,benign,4,себ кератоз
+749866,skin,0,skin,0,кожа
+749866,tumor,2,malignant,13,опухоль придатков кожи?
+202429,skin,0,skin,0,кожа
+202429,tumor,1,benign,4,себ кератоз
+404991,skin,0,skin,0,кожа
+404991,tumor,1,benign,5,болезнь Боуэна
+727723,skin,0,skin,0,кожа
+727723,tumor,,,16,роговые чешуйки
+750316,skin,0,skin,0,кожа
+750316,tumor,1,benign,10+4,пигм невус+киперкератоз
+325380,skin,0,skin,0,кожа
+325380,tumor,1,benign,2,гемангиома
+622580,skin,0,skin,0,кожа
+622580,tumor,1,benign,10,пигм невус
+750854,skin,0,skin,0,кожа
+750854,tumor,2,malignant,9,метастазы меланомы
+750865,skin,0,skin,0,кожа
+750865,tumor,1,benign,10,пигм невус
+445277,skin,0,skin,0,кожа
+445277,tumor,1,benign,11,кератопапиллома
+721901,skin,0,skin,0,кожа
+721901,tumor,2+1,malignant+benign,7+4,очаги базалиомы+кератоакантома
+751044,skin,0,skin,0,кожа
+751044,tumor,1,benign,10,пигм невус
+117651,skin,0,skin,0,кожа
+117651,tumor,1,benign,11,кератопапиллома
+146880,skin,0,skin,0,кожа
+146880,tumor,,,,"изъязвления, гранулы"
+751232,skin,0,skin,0,кожа
+751232,tumor,2,malignant,9,меланомы
+751232(1),tumor,2,malignant,9,меланомы
+367323,skin,0,skin,0,кожа
+367323,tumor,,,,плоский эпииелий
+689073,skin,0,skin,0,кожа
+689073,tumor,1,benign,1 или  11,фибропапиллома
+751780,skin,0,skin,0,кожа
+751780,tumor,2,malignant,9,меланомы
+687208,skin,0,skin,0,кожа
+687208,tumor,1,benign,10,пигм невус
+751830,skin,0,skin,0,кожа
+751830,tumor,2,malignant,7,базалиома
+751907,skin,0,skin,0,кожа
+751907,tumor,,,,"кровь, дедрит"
+751913,skin,0,skin,0,кожа
+402561,skin,0,skin,0,кожа
+402561,tumor,2,malignant,9,меланомы
+423176,skin,0,skin,0,кожа
+423176,tumor,2,malignant,7,базалиома
+612365,skin,0,skin,0,кожа
+612365,tumor,1,benign,2,гемангиома
+179761,skin,0,skin,0,кожа
+179761,tumor,1,benign,11,кератопапиллома
+402049,skin,0,skin,0,кожа
+402049,tumor,2,malignant,7,базалиома
+753458,skin,0,skin,0,кожа
+753458,tumor,,,1,фиброз
+753902,skin,0,skin,0,кожа
+753902,tumor,1,benign,10,пигм невус
+754068,skin,0,skin,0,кожа
+754068,tumor,1,benign,10,пигм невус
+755434,skin,0,skin,0,кожа
+755434,tumor,1,benign,10,пигм невус
+9915,skin,0,skin,0,кожа
+9915,tumor,1,benign,4,кератоз
+590692,skin,0,skin,0,кожа
+590692,tumor,2,malignant,7,базалиома
+454167,skin,0,skin,0,кожа
+454167,tumor,2,malignant,7,базалиома
+523472,skin,0,skin,0,кожа
+523472,tumor,1,benign,11,кератопапиллома
+616304,skin,0,skin,0,кожа
+616304,tumor,,,,роговые чешуйки
+109357,skin,0,skin,0,кожа
+109357,tumor,,,,фиброзная ткань+дискератоз+дисплазия
+646726,skin,0,skin,0,кожа
+646726,tumor,1,benign,10,пигм невус
+755103,skin,0,skin,0,кожа
+755103,tumor,1,benign,4,кератома
+755788,skin,0,skin,0,кожа
+755788,tumor,1,benign,11,папиллома
+88811,skin,0,skin,0,кожа
+88811,tumor,1,benign,4,себ кератоз
+146648,skin,0,skin,0,кожа
+146648,tumor,,,,роговые чешуйки
+270518,skin,0,skin,0,кожа
+270518,tumor,1,benign,11,папиллома
+606655,skin,0,skin,0,кожа
+606655,tumor,2,malignant,9,меланома
+755309,skin,0,skin,0,кожа
+755309,tumor,2,malignant,7,базалиома
+756005,skin,0,skin,0,кожа
+756005,tumor,2,malignant,9,меланома
+238426,skin,0,skin,0,кожа
+238426,tumor,2,malignant,7,базалиома
+254855,skin,0,skin,0,кожа
+254855,tumor,2,malignant,7,базалиома
+755566,tumor,1,benign,10,пигм невус
+755799,skin,0,skin,0,кожа
+755799,tumor,1,benign,10,пигм невус
+757069,skin,0,skin,0,кожа
+757069,tumor,2,malignant,9?,много данных за меланома
+317452,skin,0,skin,0,кожа
+317452,tumor,2,malignant,9,меланома
+376207,skin,0,skin,0,кожа
+376207,tumor,2,malignant,7,базалиома
+385729,skin,0,skin,0,кожа
+385729,tumor,,,16,роговые чешуйки
+442898,skin,0,skin,0,кожа
+442898,tumor,1,benign,1,дерматофиброма
+451583,skin,0,skin,0,кожа
+451583,tumor,2,malignant,7,базалиома
+755910,skin,0,skin,0,кожа
+755910,tumor,1,benign,10,пигм невус
+758213,skin,0,skin,0,кожа
+758213,tumor,1,benign,10,пигм невус
+758213(1),tumor,1,benign,10,пигм невус
+758654,skin,0,skin,0,кожа
+758654,tumor,1,benign,10,пигм невус
+114734,skin,0,skin,0,кожа
+114734,tumor,2,malignant,7,базалиома
+263998,skin,0,skin,0,кожа
+263998,tumor,,,,воспаление+гемосидерин
+272503,skin,0,skin,0,кожа
+272503,tumor,,,,роговые чешуйки
+340123,skin,0,skin,0,кожа
+340123,tumor,,,,без опухоли
+613034,tumor,1,benign,10,пигм невус
+710982,skin,0,skin,0,кожа
+710982,tumor,2,malignant,7,базалиома
+755664,skin,0,skin,0,кожа
+755664,tumor,1,benign,4,себ кератоз
+53258,skin,0,skin,0,кожа
+53258,tumor,2,malignant,7,базалиома
+756201,skin,0,skin,0,кожа
+756201,tumor,1,benign,10,пигм невус
+757098,skin,0,skin,0,кожа
+757098,tumor,,,,лимфоидные элементы
+757143,skin,0,skin,0,кожа
+757143,tumor,2,предрак,12,меланоцит дисплазия+диспласти невус
+759372,skin,0,skin,0,кожа
+759372,tumor,1,benign,10,пигм невус
+233174,skin,0,skin,0,кожа
+233174,tumor,1,benign,11,кератопапиллома
+292311,skin,0,skin,0,кожа
+292311,tumor,1,benign,4,"кератоз, гиперкератоз"
+200988,skin,0,skin,0,кожа
+200988,tumor,2,malignant,9,меланома
+740471,skin,0,skin,0,кожа
+740471,tumor,2,предрак,12,меланоцит дисплазия+диспласти невус
+760086,skin,0,skin,0,кожа
+760086,tumor,,,,"грануляция, бех опухоли"
+446007,skin,0,skin,0,кожа
+446007,tumor,2,malignant,7,базалиома
+718629,skin,0,skin,0,кожа
+718629,tumor,1,benign,10,пигм невус
+756167,skin,0,skin,0,кожа
+756167,tumor,2,malignant,9,??? Подозрение на мм
+756594,skin,0,skin,0,кожа
+756594,tumor,1,benign,10,пигм невус
+757153,skin,0,skin,0,кожа
+757153,tumor,1,benign,10+16,невусоподобные клетки +роговые чешуйки
+213652,skin,0,skin,0,кожа
+213652,tumor,1,benign,10,пигм невус
+273186,tumor,1,benign,11,папиллома
+273186,skin,0,skin,0,кожа
+3039,skin,0,skin,0,кожа
+3039,tumor,2,malignant,8,SCC
+51008,skin,0,skin,0,кожа
+51008,tumor,1,benign,4,себ кератоз
+154578,tumor,2,malignant,7,базалиома
+757787,skin,0,skin,0,кожа
+757787,tumor,,,,роговые чешуйки
+761013,skin,0,skin,0,кожа
+761013,tumor,,,,фиброз+воспаление
+10246,skin,0,skin,0,кожа
+10246,tumor,2,malignant,7,базалиома
+66042,skin,0,skin,0,кожа
+66042,tumor,,,,разрушенные клетки базалиомы+роговые чешуйки
+139982,skin,0,skin,0,кожа
+139982,tumor,1,benign,10,пигм невус
+173560,skin,0,skin,0,кожа
+173560,tumor,1 добро,,11,кератопапиллома
+757570,skin,0,skin,0,кожа
+757570,tumor,1,benign,10,пигм невус
+130739,skin,0,skin,0,кожа
+130739,tumor,,,,плоский эпителий
+188847,skin,0,skin,0,кожа
+188847,tumor,,,,роговые чешуйки+плоский эпителий
+459916,skin,0,skin,0,кожа
+459916,tumor,1,benign,4,кератома
+521842,skin,0,skin,0,кожа
+521842,tumor,1,benign,1,дерматофиброма
+756373,skin,0,skin,0,кожа
+756373,tumor,1,benign,4,себ кератоз
+759849,skin,0,skin,0,кожа
+759849,tumor,,,,роговые чешуйки+воспаление
+757167,skin,0,skin,0,кожа
+757167,tumor,2,malignant,7,базалиома
+758638,skin,0,skin,0,кожа
+758638,tumor,2,malignant,7,базалиома
+758665,skin,0,skin,0,кожа
+758665,tumor,2,malignant,7,базалиома
+168381,skin,0,skin,0,кожа
+168381,tumor,1,benign,1,фиброаденома
+168634,skin,0,skin,0,кожа
+168634,tumor,1,benign,11,кератопапиллома
+241837,skin,0,skin,0,кожа
+241837,tumor,2,malignant,7,базалиома
+554408,skin,0,skin,0,кожа
+554408,tumor,1,benign,4,старческая кератома
+685169,skin,0,skin,0,кожа
+685169,tumor,1,benign,1,фиброаденома
+758861,skin,0,skin,0,кожа
+758861,tumor,1,benign,4,кератоз
+759030,skin,0,skin,0,кожа
+759030,tumor,1,benign,1,дерматофиброма
