@@ -6,6 +6,9 @@ from PIL import Image
 
 TARGET_SIZE = 224
 
+# Суффикс, который должен быть в имени файла
+REQUIRED_SUFFIX = '#1'
+
 
 def to_uint8_rgb(arr: np.ndarray) -> np.ndarray:
     """
@@ -103,6 +106,8 @@ def iter_images(images_root: str):
                     continue
                 if not fname.lower().endswith(('.tif', '.tiff')):
                     continue
+                if REQUIRED_SUFFIX not in fname:
+                    continue
 
                 yield cls, patient_id, src_path
 
@@ -138,7 +143,7 @@ def main():
 
     print()
     print('=' * 60)
-    print(f'Всего найдено tiff-файлов: {total}')
+    print(f'Всего найдено tiff-файлов с #1: {total}')
     print(f'Успешно обработано: {ok}')
     print(f'Ошибок: {len(errors)}')
     print(f'Результат: {out_root}')
