@@ -1,0 +1,462 @@
+id,group,class,class1,type,type1,type1_norm,label
+663773,tumor,2,malignant,7,базалиома,basalioma,1
+665663,tumor,1,benign,4,кератома,keratoma,0
+42752,tumor,1,benign,4,дискератоз,keratosis,0
+82070,tumor,1,benign,4,ороговение,keratinization,0
+109135,tumor,1,benign,11,папиллома,papilloma,0
+665780,tumor,2,malignant,7,базалиома,basalioma,1
+665815,tumor,2,malignant,8,SCC,scc,1
+666411,tumor,2,malignant,7,базалиома,basalioma,1
+259632,tumor,1,benign,10,пигм невус,nevus,0
+309916(1),tumor,1,benign,4,ороговение,keratinization,0
+309916(2),tumor,1,benign,10,пигм невус,nevus,0
+314257,tumor,1,benign,4,ороговение,keratinization,0
+395778,tumor,2,malignant,7,базалиома,basalioma,1
+667160,tumor,2,malignant,7,базалиома,basalioma,1
+160958,tumor,1,benign,2,гемангиома,hemangioma,0
+500141,tumor,1,benign,4,себорейный кератоз,seborrheic_keratosis,0
+666677,tumor,1,benign,13,опухоль из придатков,adnexal_tumor,0
+667233,tumor,2,malignant,7,базалиома,basalioma,1
+73894,tumor,1,benign,5,болезнь Боуэна,bowen,0
+224262,tumor,1,benign,11,папиллома,papilloma,0
+333958,tumor,1,benign,10,пигм невус,nevus,0
+503386,tumor,2,malignant,7,базалиома,basalioma,1
+666262,tumor,1,benign,10,пигм невус,nevus,0
+166908,tumor,1,benign,13,опухоль из придатков,adnexal_tumor,0
+129530 1,tumor,2,malignant,7,базалиома,basalioma,1
+129530 2,tumor,2,malignant,7,базалиома,basalioma,1
+232461,tumor,2,malignant,7,базалиома,basalioma,1
+667888,tumor,1,benign,4,себорейный кератоз,seborrheic_keratosis,0
+667995,tumor,2,malignant,7,базалиома,basalioma,1
+106674,tumor,1,benign,11,папиллома,papilloma,0
+263005,tumor,2,malignant,9,меланома,melanoma,1
+365689,tumor,1,benign,4,дискератоз,keratosis,0
+482657,tumor,1,benign,4,себорейный кератоз,seborrheic_keratosis,0
+668265,tumor,2,malignant,7,базалиома,basalioma,1
+628628,tumor,1,benign,2,гемангиома,hemangioma,0
+668420,tumor,2,malignant,7,базалиома,basalioma,1
+670122,tumor,2,malignant,7,базалиома,basalioma,1
+8970,tumor,1,benign,10,пигм невус,nevus,0
+668942,tumor,1,benign,1,дерматофиброма,dermatofibroma,0
+459246,tumor,1,benign,4,гиперкератоз,keratosis,0
+657654,tumor,1,benign,10+ 4,пигм невус+кератоз,nevus,0
+669061,tumor,1,benign,4,себорейный кератоз,seborrheic_keratosis,0
+672113,tumor,1,benign,2,гемангиома,hemangioma,0
+669657,tumor,1,benign,10,пигм невус,nevus,0
+669837,tumor,1,benign,10,пигм невус,nevus,0
+656966,tumor,2,malignant,9,меланома,melanoma,1
+670120,tumor,2,malignant,7,базалиома,basalioma,1
+672165,tumor,2,malignant,9,меланома,melanoma,1
+672735,tumor,2,malignant,9,меланома,melanoma,1
+673490,tumor,2,malignant,7,базалиома,basalioma,1
+385438,tumor,1,benign,4,ороговение,keratinization,0
+656966,tumor,2,malignant,9,меланома,melanoma,1
+670120,tumor,2,malignant,7,базалиома,basalioma,1
+672165,tumor,2,malignant,9,меланома,melanoma,1
+672735,tumor,2,malignant,9,меланома,melanoma,1
+385438,tumor,1,benign,4,ороговение,keratinization,0
+673490,tumor,2,malignant,7,базалиома,basalioma,1
+265900,tumor,2,malignant,9,меланома,melanoma,1
+368006,tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+654899,tumor,2,malignant,7,базалиома,basalioma,1
+671755,tumor,1,benign,10,пигм невус,nevus,0
+504846,tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+512961,tumor,2,malignant,12,меланоцит дисплазия,dysplasia,1
+649820,tumor,1,benign,4,себорейный кератоз,seborrheic_keratosis,0
+671813,tumor,1,benign,4,себорейный кератоз,seborrheic_keratosis,0
+320817,tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+671912,tumor,1,benign,10,пигм невус,nevus,0
+672306,tumor,1,benign,1,фиброма,fibroma,0
+674316,tumor,2,malignant,9,меланома,melanoma,1
+659913,tumor,2,malignant,9,меланома,melanoma,1
+675472,tumor,1,benign,10,пигм невус,nevus,0
+675495,tumor,1,benign,10,пигм невус,nevus,0
+673067,tumor,2,malignant,7,базалиома,basalioma,1
+673074,tumor,2,malignant,7,базалиома,basalioma,1
+673177,tumor,1,benign,10,пигм невус,nevus,0
+673842,tumor,1,benign,10,пигм невус,nevus,0
+69029,tumor,2,malignant,9,меланома,melanoma,1
+624558,tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+674893,tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+672963,tumor,2,malignant,9,меланома,melanoma,1
+674156,tumor,1,benign,4,себорейный кератоз,seborrheic_keratosis,0
+675346,tumor,1,benign,10+4,пигм невус,nevus,0
+675405,tumor,2,malignant,7,базалиома,basalioma,1
+675441,tumor,1,benign,10,пигм невус,nevus,0
+368228,tumor,1,benign,4,себорейный кератоз,seborrheic_keratosis,0
+447889,tumor,1,benign,10,пигм невус,nevus,0
+674532,tumor,1,benign,10,пигм невус,nevus,0
+482543,tumor,1,benign,2,гемангиома,hemangioma,0
+676448,tumor,2,malignant,9,меланома,melanoma,1
+125761,tumor,2,malignant,9,меланома,melanoma,1
+676666,tumor,1,benign,4,ороговение,keratinization,0
+174282,tumor,2,malignant,9,меланома регресс,melanoma,1
+266116,tumor,1,benign,2,гемангиома,hemangioma,0
+677090,tumor,1,benign,4,себорейный кератоз,seborrheic_keratosis,0
+677100,tumor,1,benign,10,пигм невус,nevus,0
+108933,tumor,2,malignant,7,базалиома,basalioma,1
+325490,tumor,2,malignant,7,базалиома,basalioma,1
+678009,tumor,1,benign,4,себорейный кератоз,seborrheic_keratosis,0
+632996,tumor,1,benign,11,фибропапиллома,fibropapilloma,0
+678830,tumor 1,1,benign,2,гемангиома,hemangioma,0
+678830,tumor 2,1,benign,2,гемангиома,hemangioma,0
+383161,tumor,2,malignant,7,базалиома,basalioma,1
+679348,tumor,1,benign,4,себорейный кератоз,seborrheic_keratosis,0
+75232,tumor,2,malignant,7,базалиома,basalioma,1
+277633,tumor,2,malignant,9,меланома,melanoma,1
+328366,tumor,2,malignant,7,базалиома,basalioma,1
+252099,tumor,2,malignant,9,меланома,melanoma,1
+588547,tumor,2,malignant,9,меланома,melanoma,1
+683314,tumor,2,malignant,9,меланома,melanoma,1
+103571,tumor,2,malignant,7,базалиома,basalioma,1
+240569,tumor,1,benign,11,фибропапиллома,fibropapilloma,0
+680582,tumor,2,malignant,7,базалиома,basalioma,1
+40116,tumor,1,benign,4,себорейный кератоз,seborrheic_keratosis,0
+219565,tumor,2,malignant,9,меланома,melanoma,1
+680055,tumor,1,benign,10,пигм невус,nevus,0
+681579,tumor,1,benign,4,себорейный кератоз,seborrheic_keratosis,0
+40116,tumor,1,benign,4,себорейный кератоз,seborrheic_keratosis,0
+351744,tumor,1,benign,10,пигм невус,nevus,0
+351744(1),tumor,1,benign,10,пигм невус,nevus,0
+526216,tumor,1,benign,4,себорейный кератоз,seborrheic_keratosis,0
+570201,tumor,2,malignant,9,меланома,melanoma,1
+682546,tumor,1,benign,11,,unknown,0
+682899,tumor,1,benign,4,себорейный кератоз,seborrheic_keratosis,0
+683065,tumor,2,malignant,9,меланома,melanoma,1
+683837,tumor,1,benign,2,гемангиома,hemangioma,0
+680256,tumor,1,benign,1,добро,unknown,0
+684083,tumor,1,benign,11,гиперкератоз,keratosis,0
+684198,tumor,1,benign,1,добро,unknown,0
+411989,tumor,2,malignant,7,базалиома,basalioma,1
+427099,tumor,2,malignant,9,меланома,melanoma,1
+14376,tumor,2,malignant,9,меланома,melanoma,1
+645788,tumor,2,malignant,9,меланома,melanoma,1
+245583,tumor,1,benign,1,фибропапиллома,fibropapilloma,0
+572379,tumor,1,benign,1,фибропапиллома,fibropapilloma,0
+684703,tumor,1,benign,10,пигм невус,nevus,0
+684752,tumor,1,benign,10,пигм невус,nevus,0
+54476,tumor,2,malignant,9,меланома регрессия,melanoma,1
+685194,tumor,1,benign,10,пигм невус,nevus,0
+362236,tumor,1,benign,4,себорейный кератоз,seborrheic_keratosis,0
+685356,tumor,1,benign,10,пигм невус,nevus,0
+686838,tumor,1,benign,10,пигм невус,nevus,0
+195891,tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+236640,tumor,1,benign,4,себорейный кератоз,seborrheic_keratosis,0
+210718,tumor,1,benign,10,пигм невус,nevus,0
+383119,tumor,1,benign,10,пигм невус,nevus,0
+383119 1,tumor,1,benign,10,пигм невус,nevus,0
+400238,tumor,1,benign,1,,unknown,0
+686072,tumor,1,benign,10,пигм невус,nevus,0
+688502,tumor,1,benign,2,гемангиома,hemangioma,0
+688673,tumor,2,malignant,9,меланома регрессия,melanoma,1
+686301,tumor,1,benign,2,гемангиома,hemangioma,0
+688013,tumor,1,benign,1,фибропапиллома,fibropapilloma,0
+201083,tumor,2,malignant,9,меланома,melanoma,1
+687025,tumor,1,benign,10,пигм невус,nevus,0
+40834,tumor,2,malignant,9,меланома,melanoma,1
+611895,tumor,1,benign,10,пигм невус,nevus,0
+686634,tumor,2,malignant,7,базалиома,basalioma,1
+688709,tumor,1,benign,11,кандилома,unknown,0
+361285,tumor,1,benign,10,пигм невус,nevus,0
+485929,tumor,1,benign,10,пигм невус,nevus,0
+687309,tumor,1,benign,10,пигм невус,nevus,0
+687565,tumor,2,malignant,7,базалиома,basalioma,1
+687575,tumor,1,benign,10,пигм невус,nevus,0
+524321,tumor,1,benign,10,пигм невус,nevus,0
+687885,tumor,1,benign,10,пигм невус,nevus,0
+47944,tumor,1,benign,4,себорейный кератоз,seborrheic_keratosis,0
+541071,tumor,1,benign,4,кератопапиллома,keratopapilloma,0
+626372,tumor,1,benign,2,гемангиома,hemangioma,0
+688020,tumor,1,benign,10,пигм невус,nevus,0
+688716,tumor,1,benign,10,пигм невус,nevus,0
+370721,tumor,2,malignant,9,бп меланома,melanoma,1
+689198,tumor,2,malignant,9,меланома,melanoma,1
+687760,tumor,1,benign,10,пигм невус,nevus,0
+689603,tumor,2,malignant,8,SCC,scc,1
+453338,tumor,1,benign,1,фибропапиллома,fibropapilloma,0
+420911,tumor,1,benign,4,себорейный кератоз,seborrheic_keratosis,0
+689862,tumor,1,benign,4,себорейный кератоз,seborrheic_keratosis,0
+690419,tumor,2,malignant,9,меланома,melanoma,1
+690489,tumor,1,benign,10,пигм невус,nevus,0
+691300,tumor,1,benign,10,пигм невус,nevus,0
+243137,tumor,1,benign,10,пигм невус,nevus,0
+692600,tumor,1,benign,,пигм невус,nevus,0
+692753,tumor,1,benign,4,кератоз,keratosis,0
+198091,tumor,1,benign,2,гемангиома,hemangioma,0
+442257,tumor,1,benign,10,пигм невус,nevus,0
+641714,tumor,1,benign,2,гемангиома,hemangioma,0
+693469,tumor,2,malignant,7,базалиома,basalioma,1
+693823,tumor,2,malignant,7,базалиома,basalioma,1
+692835,tumor,2,malignant,9,меланома,melanoma,1
+692926,tumor,2,malignant,7,базалиома,basalioma,1
+693099,tumor,1,benign,4,кератоз,keratosis,0
+601694,tumor,1,benign,10,пигм невус,nevus,0
+203260,tumor,1,benign,2,гемангиома,hemangioma,0
+693610,tumor,1,benign,10,пигм невус,nevus,0
+693748,tumor,1,benign,10,пигм невус,nevus,0
+694674,tumor,1,benign,10,пигм невус,nevus,0
+623651,tumor,2,malignant,9,меланома,melanoma,1
+545225,tumor,1,benign,4,кератоз,keratosis,0
+353765,tumor,1,benign,10,пигм невус,nevus,0
+119421,tumor,1,benign,4,кератоз,keratosis,0
+700649,tumor,2,malignant,7,базалиома,basalioma,1
+701116,tumor,2,malignant,7,базалиома,basalioma,1
+701125,tumor,1,benign,1,Фибропапиллома,fibropapilloma,0
+38438,tumor,1,benign,10,пигм невус,nevus,0
+385577,tumor,1,benign,4,кератоз,keratosis,0
+468348,tumor,1,benign,10,пигм невус,nevus,0
+468348 1,tumor,1,benign,10,пигм невус,nevus,0
+69496,tumor,2,malignant,7,базалиома,basalioma,1
+384331,tumor,1,benign,2,гемангиома,hemangioma,0
+705025,tumor,1,benign,4,кератоз,keratosis,0
+700645,tumor,2,malignant,7,базалиома,basalioma,1
+705665,tumor,1,benign,10,пигм невус,nevus,0
+266846,tumor,2,malignant,9,меланома,melanoma,1
+677860,tumor,1,benign,10,пигм невус,nevus,0
+705037,tumor,1,benign,2,гемангиома,hemangioma,0
+705665,tumor,1,benign,10,пигм невус,nevus,0
+709578,tumor,1,benign,4,кератоз,keratosis,0
+709654,tumor,2,malignant,7,базалиома,basalioma,1
+705029,tumor,1,benign,4,себорейный кератоз,seborrheic_keratosis,0
+708510,tumor,1,benign,2,гемангиома,hemangioma,0
+709699,tumor,1,benign,1,Фибропапиллома ,fibropapilloma,0
+710085,tumor,2,malignant,9,меланома,melanoma,1
+9802,tumor,2,malignant,9,меланома,melanoma,1
+711823,tumor,1,benign,2,гемангиома,hemangioma,0
+711094,tumor,2,malignant,7,базалиома,basalioma,1
+708666,tumor,1,benign,1,фиброма,fibroma,0
+710709,tumor,1,benign,4,кератоз,keratosis,0
+710729,tumor,2,malignant,9,меланома,melanoma,1
+710729 1,tumor,2,malignant,9,меланома,melanoma,1
+34392,tumor,1,benign,4,кератоз,keratosis,0
+337226,tumor,1,benign,10,пигм невус,nevus,0
+672165,tumor,2,malignant,9,меланома,melanoma,1
+712555,tumor,2,malignant,9,меланома,melanoma,1
+715639,tumor,1,benign,10,пигм невус,nevus,0
+565663,tumor,1,benign,10,пигм невус,nevus,0
+708776,tumor,2,malignant,7,базалиома,basalioma,1
+171065,tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+713104,tumor,2,malignant,9,меланома,melanoma,1
+714064,tumor,1,benign,4,кератоз,keratosis,0
+104390,tumor,2,malignant,7,базалиома,basalioma,1
+250095,tumor,1,benign,10,пигм невус,nevus,0
+308698,tumor,1,benign,2,гемангиома,hemangioma,0
+568371,tumor,1,benign,10,пигм невус,nevus,0
+714593,tumor,2,malignant,7,базалиома,basalioma,1
+714595,tumor,1,benign,10,пигм невус,nevus,0
+95822,tumor,2,malignant,7,базалиома,basalioma,1
+541640,tumor,2,malignant,9,меланома,melanoma,1
+714704,tumor,2,malignant,7,базалиома,basalioma,1
+486195,tumor,2,malignant,7,базалиома,basalioma,1
+704291,tumor,2,malignant,7,базалиома,basalioma,1
+709722,tumor,2,malignant,7,базалиома,basalioma,1
+713703,tumor,1,benign,10,пигм невус,nevus,0
+715365,tumor,2,malignant,7,базалиома,basalioma,1
+76439,tumor,2,malignant,7,базалиома,basalioma,1
+113003,tumor,2,malignant,7,базалиома,basalioma,1
+219431 1,tumor,2,malignant,7,базалиома,basalioma,1
+219431 2,tumor,2,malignant,7,базалиома,basalioma,1
+647306,tumor,1,benign,11,гемангиопапиллома,unknown,0
+288516,tumor,2,malignant,8,SCC,scc,1
+715550,tumor,1,benign,11,папиллома,papilloma,0
+716157,tumor,1,benign,11,папиллома,papilloma,0
+711512,tumor,2,malignant,7,базалиома,basalioma,1
+715747,tumor,2,malignant,7,базалиома,basalioma,1
+485771,tumor,2,malignant,7,базалиома,basalioma,1
+578229,tumor,1,benign,11,КЕРАТОПАПИЛЛОМА,keratopapilloma,0
+56246,tumor,2,malignant,7,базалиома,basalioma,1
+716448,tumor,2,malignant,9,меланома,melanoma,1
+37725щ,tumor,2,malignant,7,базалиома,basalioma,1
+40285,tumor,2,malignant,7,базалиома,basalioma,1
+136080,tumor,2,malignant,8,SCC,scc,1
+465579,tumor,2,malignant,7,базалиома,basalioma,1
+175690,tumor,2,malignant,7,базалиома,basalioma,1
+597516,tumor,2,malignant,7,базалиома,basalioma,1
+48515,tumor,2,malignant,7,базалиома,basalioma,1
+101932,tumor,2,malignant,7,базалиома,basalioma,1
+518436,tumor,2,malignant,7,базалиома,basalioma,1
+98416,tumor,2,malignant,7,базалиома,basalioma,1
+405115,tumor,1,benign,10,пигм невус,nevus,0
+271524,tumor,2,malignant,7,базалиома,basalioma,1
+332838,tumor,1,benign,4,кератома,keratoma,0
+491848,tumor,2,malignant,7,базалиома,basalioma,1
+597675,tumor,2,malignant,9,меланома,melanoma,1
+41841,tumor,2,malignant,7,базалиома,basalioma,1
+214127,tumor,1,benign,10,пигм невус,nevus,0
+686805,tumor,1,benign,4,кератома,keratoma,0
+235430,tumor,2,malignant,7,базалиома,basalioma,1
+724478,tumor,1,benign,4,себ кератоз,seborrheic_keratosis,0
+724484,tumor,2,malignant,7,базалиома,basalioma,1
+277850,tumor,1,benign,11,плоскоклеточная кератопапиллома,keratopapilloma,0
+347555,tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+674316,tumor,2,malignant,9,меланома,melanoma,1
+724820,tumor,2,malignant,8,карцинома,unknown,1
+73082,tumor,2,malignant,7,базалиома,basalioma,1
+417950,tumor,1,benign,10,пигм невус,nevus,0
+727334,tumor,1,benign,10,пигм невус,nevus,0
+727381,tumor,1,benign,10,пигм невус,nevus,0
+217132,tumor,1,benign,10,пигм невус,nevus,0
+726876,tumor,1,benign,10,пигм невус,nevus,0
+726876(1),tumor,1,benign,10,пигм невус,nevus,0
+727465,tumor,1,benign,10,пигм невус,nevus,0
+12609,tumor,1,benign,4,себ кератоз,seborrheic_keratosis,0
+289724,tumor,1,benign,1,дерматофиброма,dermatofibroma,0
+298621,tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+514047,tumor,2,malignant,9 ?,меланома?,melanoma,1
+727336,tumor,1,benign,2,гемангиома,hemangioma,0
+726925,tumor,2,malignant,7,базалиома,basalioma,1
+732310,tumor,2,malignant,7,базалиома,basalioma,1
+48648,tumor,2,malignant,7,базалиома,basalioma,1
+700089,tumor,2,malignant,9,меланома,melanoma,1
+442348,tumor,1,benign,1,фиброма,fibroma,0
+461362,tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+688016,tumor,1,benign,4,себ кератоз,seborrheic_keratosis,0
+698544,tumor,2,malignant,7,базалиома,basalioma,1
+729453,tumor,1,benign,4,гиперкератоз,keratosis,0
+729639,tumor,2,malignant,7,базалиома,basalioma,1
+312687,tumor,1,benign,10,пигм невус,nevus,0
+583248,tumor,1,benign,10,пигм невус,nevus,0
+730096,tumor,2,malignant,7,базалиома,basalioma,1
+733332,tumor,1,benign,2,гемангиома,hemangioma,0
+354804,tumor,1,benign,10,пигм невус,nevus,0
+735443,tumor,1,benign,10,пигм невус,nevus,0
+238153,tumor,2,malignant,7,базалиома,basalioma,1
+453968,tumor,2,malignant,7,базалиома,basalioma,1
+140806,tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+247969,tumor,1,benign,10,пигм невус,nevus,0
+361728,tumor,1,benign,11,папиллома,papilloma,0
+731253,tumor,2,malignant,8,SCC,scc,1
+731423,tumor,2,malignant,7 16,базалиома+рог чешуйки,basalioma,1
+175260,tumor,1,benign,10,пигм невус,nevus,0
+350411,tumor,2,malignant,7,базалиома,basalioma,1
+276632,tumor,2,malignant,7,базалиома,basalioma,1
+732182,tumor,1,benign,10,пигм невус,nevus,0
+715879,tumor,1,benign,10,пигм невус,nevus,0
+728932,tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+58604,tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+732995,tumor,1,benign,10,пигм невус,nevus,0
+434629,tumor,1,benign,10,пигм невус,nevus,0
+434629(1),tumor,1,benign,10,пигм невус,nevus,0
+733008,tumor,2,malignant,7,базалиома,basalioma,1
+42693,tumor,2,malignant,7,базалиома,basalioma,1
+732758,tumor,2,malignant,7,базалиома,basalioma,1
+117531,tumor,2,malignant,7,базалиома,basalioma,1
+455873,tumor,1,benign,4?,"акантоз, очаг гиперкератоз",keratosis,0
+250318,tumor,1,benign,2,гемангиома,hemangioma,0
+404182,tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+456217,tumor,1,benign,10,пигм невус,nevus,0
+492616,tumor,1,benign,11,плоскоклет кератопапиллома,keratopapilloma,0
+735095,tumor,1,benign,2,гемангиома,hemangioma,0
+10412,tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+10412(1),tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+209733,tumor,1,benign,2,гемангиома,hemangioma,0
+686553,tumor,2,malignant,7,базалиома,basalioma,1
+733326,tumor,2,malignant,8?,метастазы SCC,scc,1
+56828,tumor,2,malignant,7,базалиома,basalioma,1
+667824,tumor,2,malignant,7,базалиома,basalioma,1
+80512,tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+744927,tumor,1,benign,10,пигм невус,nevus,0
+745645,tumor,1,benign,2,гемангиома,hemangioma,0
+747198,tumor,1,benign,10,пигм невус,nevus,0
+747198(1),tumor,1,benign,10,пигм невус,nevus,0
+60714,tumor,1,benign,10,пигм невус,nevus,0
+316545,tumor,1,benign,2,гемангиома,hemangioma,0
+747435,tumor,1,benign,4,себ кератоз,seborrheic_keratosis,0
+290794,tumor,1,benign,, СИРИНГОЭПИТЕЛИОМА,unknown,0
+747450,tumor,1,benign,2,гемангиома,hemangioma,0
+63180,tumor,1,benign,4,гипер кератоз,keratosis,0
+747583,tumor,1,benign,4,себ кератоз,seborrheic_keratosis,0
+747862,tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+749383,tumor,1,benign,2,гемангиома,hemangioma,0
+82365,tumor,2,malignant,7,базалиома,basalioma,1
+748095,tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+111080,tumor,2,malignant,7,базалиома,basalioma,1
+746755,tumor,2,malignant,9,меланома,melanoma,1
+749495,tumor,1,benign,2,гемангиома,hemangioma,0
+349663,tumor,1,benign,4,себ кератоз,seborrheic_keratosis,0
+749866,tumor,2,malignant,13,опухоль придатков кожи?,adnexal_tumor,1
+202429,tumor,1,benign,4,себ кератоз,seborrheic_keratosis,0
+404991,tumor,1,benign,5,болезнь Боуэна,bowen,0
+750316,tumor,1,benign,10+4,пигм невус+киперкератоз,nevus,0
+325380,tumor,1,benign,2,гемангиома,hemangioma,0
+622580,tumor,1,benign,10,пигм невус,nevus,0
+750854,tumor,2,malignant,9,метастазы меланомы,melanoma,1
+750865,tumor,1,benign,10,пигм невус,nevus,0
+445277,tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+751044,tumor,1,benign,10,пигм невус,nevus,0
+117651,tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+751232,tumor,2,malignant,9,меланомы,melanoma,1
+751232(1),tumor,2,malignant,9,меланомы,melanoma,1
+689073,tumor,1,benign,1 или  11,фибропапиллома,fibropapilloma,0
+751780,tumor,2,malignant,9,меланомы,melanoma,1
+687208,tumor,1,benign,10,пигм невус,nevus,0
+751830,tumor,2,malignant,7,базалиома,basalioma,1
+402561,tumor,2,malignant,9,меланомы,melanoma,1
+423176,tumor,2,malignant,7,базалиома,basalioma,1
+612365,tumor,1,benign,2,гемангиома,hemangioma,0
+179761,tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+402049,tumor,2,malignant,7,базалиома,basalioma,1
+753902,tumor,1,benign,10,пигм невус,nevus,0
+754068,tumor,1,benign,10,пигм невус,nevus,0
+755434,tumor,1,benign,10,пигм невус,nevus,0
+9915,tumor,1,benign,4,кератоз,keratosis,0
+590692,tumor,2,malignant,7,базалиома,basalioma,1
+454167,tumor,2,malignant,7,базалиома,basalioma,1
+523472,tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+646726,tumor,1,benign,10,пигм невус,nevus,0
+755103,tumor,1,benign,4,кератома,keratoma,0
+755788,tumor,1,benign,11,папиллома,papilloma,0
+88811,tumor,1,benign,4,себ кератоз,seborrheic_keratosis,0
+270518,tumor,1,benign,11,папиллома,papilloma,0
+606655,tumor,2,malignant,9,меланома,melanoma,1
+755309,tumor,2,malignant,7,базалиома,basalioma,1
+756005,tumor,2,malignant,9,меланома,melanoma,1
+238426,tumor,2,malignant,7,базалиома,basalioma,1
+254855,tumor,2,malignant,7,базалиома,basalioma,1
+755566,tumor,1,benign,10,пигм невус,nevus,0
+755799,tumor,1,benign,10,пигм невус,nevus,0
+757069,tumor,2,malignant,9?,много данных за меланома,melanoma,1
+317452,tumor,2,malignant,9,меланома,melanoma,1
+376207,tumor,2,malignant,7,базалиома,basalioma,1
+442898,tumor,1,benign,1,дерматофиброма,dermatofibroma,0
+451583,tumor,2,malignant,7,базалиома,basalioma,1
+755910,tumor,1,benign,10,пигм невус,nevus,0
+758213,tumor,1,benign,10,пигм невус,nevus,0
+758213(1),tumor,1,benign,10,пигм невус,nevus,0
+758654,tumor,1,benign,10,пигм невус,nevus,0
+114734,tumor,2,malignant,7,базалиома,basalioma,1
+613034,tumor,1,benign,10,пигм невус,nevus,0
+710982,tumor,2,malignant,7,базалиома,basalioma,1
+755664,tumor,1,benign,4,себ кератоз,seborrheic_keratosis,0
+53258,tumor,2,malignant,7,базалиома,basalioma,1
+756201,tumor,1,benign,10,пигм невус,nevus,0
+759372,tumor,1,benign,10,пигм невус,nevus,0
+233174,tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+292311,tumor,1,benign,4,"кератоз, гиперкератоз",keratosis,0
+200988,tumor,2,malignant,9,меланома,melanoma,1
+446007,tumor,2,malignant,7,базалиома,basalioma,1
+718629,tumor,1,benign,10,пигм невус,nevus,0
+756167,tumor,2,malignant,9,??? Подозрение на мм,melanoma,1
+756594,tumor,1,benign,10,пигм невус,nevus,0
+757153,tumor,1,benign,10+16,невусоподобные клетки +роговые чешуйки,nevus,0
+213652,tumor,1,benign,10,пигм невус,nevus,0
+273186,tumor,1,benign,11,папиллома,papilloma,0
+3039,tumor,2,malignant,8,SCC,scc,1
+51008,tumor,1,benign,4,себ кератоз,seborrheic_keratosis,0
+154578,tumor,2,malignant,7,базалиома,basalioma,1
+10246,tumor,2,malignant,7,базалиома,basalioma,1
+139982,tumor,1,benign,10,пигм невус,nevus,0
+757570,tumor,1,benign,10,пигм невус,nevus,0
+459916,tumor,1,benign,4,кератома,keratoma,0
+521842,tumor,1,benign,1,дерматофиброма,dermatofibroma,0
+756373,tumor,1,benign,4,себ кератоз,seborrheic_keratosis,0
+757167,tumor,2,malignant,7,базалиома,basalioma,1
+758638,tumor,2,malignant,7,базалиома,basalioma,1
+758665,tumor,2,malignant,7,базалиома,basalioma,1
+168381,tumor,1,benign,1,фиброаденома,unknown,0
+168634,tumor,1,benign,11,кератопапиллома,keratopapilloma,0
+241837,tumor,2,malignant,7,базалиома,basalioma,1
+554408,tumor,1,benign,4,старческая кератома,keratoma,0
+685169,tumor,1,benign,1,фиброаденома,unknown,0
+758861,tumor,1,benign,4,кератоз,keratosis,0
+759030,tumor,1,benign,1,дерматофиброма,dermatofibroma,0
